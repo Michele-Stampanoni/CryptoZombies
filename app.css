@@ -1,11 +1,12 @@
 
 body {
     padding-top: 40px;
-    padding-bottom: 120px;
+    padding-bottom: 120px; /* describes positioning on website */ 
 }
 
 .footer {
-    position: absolute;
+    position: absolute;  /* html shows what the user sees, css is how the user sees it and 
+                            Javascript is how the user interacts with the websitee */ 
     left: 0;
     bottom: 0;
     width: 100%;
